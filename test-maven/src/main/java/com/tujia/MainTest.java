@@ -10,6 +10,10 @@ public class MainTest {
 	
 	public void testMeth(){
 		System.out.println("新增方法222222222222222222222222222222222");
-		System.out.println("新增方法222222222222222222222222222222222");
+	}
+	
+	public void eclipseMeth(){
+		System.out.println("新增方法eclipseMeth");
+		System.out.println("新增方法eclipseMeth");
 	}
 }
