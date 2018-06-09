@@ -12,4 +12,10 @@ public class MainTest {
         System.out.println("新增方法222222222222222222222222222222222");
         System.out.println("新增方法222222222222222222222222222222222");
     }
+
+    public void IDEATest(){
+        System.out.println("IDEATest--------------------");
+        System.out.println("IDEATest--------------------");
+        System.out.println("IDEATest--------------------");
+    }
 }
